@@ -116,7 +116,7 @@ init();
 ```
 
 ### Screenshot
-![Dev Detective](./images/screenshot.png)
+![Dev Detective](./images/devdetective.png)
 
 ### Demo
 You can view a live demo of the app here: [Dev Detective Demo](https://yourdemo.com).
